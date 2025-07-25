@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897643443008",
+    "project_id": "levelme-aba8b",
+    "storage_bucket": "levelme-aba8b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897643443008:android:26b862f0162747b438c0a5",
+        "android_client_info": {
+          "package_name": "com.example.levelme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkHKyw3eWDMhVxn7Wqb121ukjNzjUIgWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
